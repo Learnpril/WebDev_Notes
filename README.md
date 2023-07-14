@@ -18,3 +18,8 @@
 up a level ../essay.docx
 
 stay within current directory ./dog.png
+
+*or*
+dog.png
+
+...however, sometimes the direct method doesn't work! 
