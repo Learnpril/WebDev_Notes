@@ -1,5 +1,5 @@
 # WebDev_Notes
-<h1>Web Development Notes!</h1>
+<h2>Web Development Notes!</h2>
 <hr>
 <br>
 <ul>
