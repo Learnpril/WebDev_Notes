@@ -23,3 +23,6 @@ stay within current directory ./dog.png
 dog.png
 
 ...however, sometimes the direct method doesn't work! 
+
+<h3>The HTML Boilerplate</h3>
+(overview)
