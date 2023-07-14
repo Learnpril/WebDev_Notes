@@ -12,3 +12,9 @@
   <li>test</li>
   <li>test</li>
 </ol>
+
+<h3>Section 4: Computer File Paths</h3>
+
+up a level ../essay.docx
+
+stay within current directory ./dog.png
